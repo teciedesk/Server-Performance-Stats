@@ -1,0 +1,43 @@
+==================== SERVER PERFORMANCE STATS ====================
+
+📌 OS Version:
+Ubuntu 20.04.6 LTS
+
+📌 Uptime:
+up 40 minutes
+
+📌 Load Average (1m, 5m, 15m):
+0.09 0.36 0.78
+
+📌 Logged-in Users:
+0
+
+📌 CPU Usage:
+User: 3.4%, System: 6.9%, Idle: 89.7%
+
+📌 Memory Usage:
+Total: 7928MB, Used: 1289MB, Free: 171MB (16.26% Used)
+
+📌 Disk Usage:
+Total: 136G, Used: 52G, Free: 80G (38.24% Used)
+
+📌 Top 5 Processes by CPU Usage:
+    PID COMMAND         %CPU
+   2923 node             2.0
+   2414 node             0.5
+   2938 node             0.1
+      1 docker-init      0.0
+      6 sh               0.0
+
+📌 Top 5 Processes by Memory Usage:
+    PID COMMAND         %MEM
+   2923 node             4.1
+   2414 node             1.1
+    280 dockerd          1.0
+   2938 node             0.8
+   2496 node             0.6
+
+📌 Failed SSH Login Attempts:
+0
+
+==================== END OF REPORT ====================
