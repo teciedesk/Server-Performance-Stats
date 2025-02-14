@@ -57,3 +57,11 @@ To execute the script, run:
 Step 4: Save Output to a File
 
 You can save the output to a text file for future reference:
+
+License
+
+This script is open-source and free to use.
+
+Author
+
+Developed by [Oluwatobi Osiberu]
