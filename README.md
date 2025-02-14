@@ -65,3 +65,5 @@ This script is open-source and free to use.
 Author
 
 Developed by [Oluwatobi Osiberu]
+
+https://roadmap.sh/projects/server-stats
